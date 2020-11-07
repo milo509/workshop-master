@@ -1,0 +1,15 @@
+{
+  "ios": {
+    "release": {
+      "codeSignIdentity": "iPhone Developer",
+      "developmentTeam": "FG35JLLMXX4A",
+      "provisioningProfile": "926c2bd6-8de9-4c2f-8407-1016d2d12954",
+      "packageType": "app-store",
+      "buildFlag": [
+        "EMBEDDED_CONTENT_CONTAINS_SWIFT = YES",
+        "ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES=NO",
+        "LD_RUNPATH_SEARCH_PATHS = \"@executable_path/Frameworks\""
+      ]
+    }
+  }
+}
